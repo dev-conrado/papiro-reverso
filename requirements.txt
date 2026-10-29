@@ -1,0 +1,24 @@
+# Framework Web e Servidor
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+python-multipart>=0.0.9
+
+# Download e Extração de Mídia
+yt-dlp>=2024.3.0
+requests>=2.31.0
+
+# Transcrição e IA
+openai-whisper>=20231117
+torch>=2.2.0
+
+# Geração de PDFs e Parsing
+fpdf2>=2.7.8
+beautifulsoup4>=4.12.0
+
+# Flashcards Anki
+genanki>=0.13.0
+
+# Provedores Opcionais de IA
+ollama>=0.3.0
+google-genai>=0.1.0
